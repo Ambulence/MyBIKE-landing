@@ -1,8 +1,8 @@
 # MyBIKE - landing page of bike shop
    MyBIKE Landing is a landing page for a fictional bicycle rental service.
    
- 
-     [DEMO](https://ambulence.github.io/logistic-landing-page/)
+   ## Demo
+  [DEMO](https://ambulence.github.io/logistic-landing-page/)
    
    ## Introduction
       MyBIKE Landing is designed to showcase the features and benefits of the MyBIKE bicycle rental service. 
