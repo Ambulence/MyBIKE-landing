@@ -35,7 +35,9 @@
     If you have any questions, suggestions, or feedback regarding the MyBIKE Landing project, please feel free to reach out to the project owner:
 
     Name: Oleksandr Kononenko
+   
     Email: ol.kononenko.work@gmail.com
-    GitHub: -[github.com/Ambulence]
+    
+  [GitHub]: [github.com/Ambulence]
 
   
